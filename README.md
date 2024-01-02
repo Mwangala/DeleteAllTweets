@@ -1,6 +1,4 @@
-How to delete all Twitter tweets. 
-
-S/O to ChatGPT for optimizing the code LOL
+S/O to ChatGPT for helping optimize the code LOL
 ### How to:
 - Open Chrome and go to your twitter profile (https://twitter.com/USERNAME/with_replies)
 - Open Chrome Developer Console.
