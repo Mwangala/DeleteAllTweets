@@ -65,4 +65,3 @@ const deleteAllTweets = async () => {
 };
 
 deleteAllTweets();
-
