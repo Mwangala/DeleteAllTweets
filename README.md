@@ -4,7 +4,7 @@ S/O to ChatGPT for providing the code
 ### How to:
 - Open Chrome and go to your twitter profile (https://twitter.com/USERNAME/with_replies)
 - Open Chrome Developer Console.
-- Type 'allow posting' and hit enter
+- Type 'allow pasting' and hit enter
 - Copy and Paste the code below into the console
 
 ```
